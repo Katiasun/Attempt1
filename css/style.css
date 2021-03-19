@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fix {
+}
+.photo {
+}
+.info {
+}
+.contacts {
+}
+.contact {
+
+		&_link {
+		}
+}
+.description {
+}
+.footer {
+
+		&_link {
+		}
+}
